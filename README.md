@@ -1,5 +1,12 @@
-## Hi there 👋
+#Hi, I'm Hasan👋
 
+Computer Science Engineering student at BITS Pilani – Dubai Campus, graduating in January 2027.
+Interested in Information Systems, Software, Data, and Digital Technologies.
+I have gained practical experience through internships at Power & Sun Solar Equipments Trading LLC and Reliance FM, working with systems, web technologies, CRM, data management, and digital processes.
+Areas of Interest:
+Information Systems • Software Development • Data • Digital Technologies
+Connect with me:
+LinkedIn | Medium
 <!--
 **hasanabdalhadi/hasanabdalhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
