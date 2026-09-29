@@ -1,4 +1,4 @@
-#Hi, I'm Hasan👋
+Hi, I'm Hasan👋
 
 Computer Science Engineering student at BITS Pilani – Dubai Campus, graduating in January 2027.
 Interested in Information Systems, Software, Data, and Digital Technologies.
